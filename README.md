@@ -1,4 +1,4 @@
-# Sweden [![awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) datasets list
+# Sweden [![awesome](https://awesome.re/badge-flat.svg)](https://github.com/buren/awesome-sweden-datasets) datasets list
 
 A curated list of awesome datasets for the Swedish market.
 
