@@ -30,6 +30,7 @@ A curated list of awesome datasets for the Swedish market.
 ## Misc
 
 - [Statistikdatabasen (SCB)](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/)
+- [Kolada API](https://www.kolada.se/index.php?_p=index/API) - KPIs concerning Swedish municipalities and organizational units
 
 ## Dataset portals
 
