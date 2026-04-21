@@ -10,6 +10,7 @@ A curated list of awesome datasets for the Swedish market.
 
 - [Regional](#regional)
 - [Transport](#transport)
+- [Construction](#construction)
 - [Misc](#misc)
 - A __[wish list](#wish-list)__ of things we'd like to see datasets for
 - [Dataset portals](#dataset-portals)
@@ -26,6 +27,13 @@ A curated list of awesome datasets for the Swedish market.
 ## Transport
 
 - [Trafiklab](https://www.trafiklab.se/api)
+
+## Construction
+
+- [Swedish Construction FAQ](https://github.com/zaragoza-ab/swedish-construction-faq-1000) - 503 bilingual (Swedish/English) Q&A pairs covering bygglov, ROT/RUT, ABS 18, dolda fel, Arbetsmiljöverket. CC BY 4.0. DOI: [10.5281/zenodo.19630803](https://doi.org/10.5281/zenodo.19630803). Also on [Hugging Face](https://huggingface.co/datasets/DecDEPO/swedish-construction-faq).
+- [Swedish Construction Terminology Glossary](https://github.com/zaragoza-ab/swedish-construction-terminology) - 350+ terms trilingual (SV/EN/PL). CC BY 4.0.
+- [Swedish Construction Cost Database 2026](https://github.com/zaragoza-ab/construction-cost-sweden-2026) - Pricing for 50+ categories with regional adjustments. CC BY 4.0.
+- [Swedish Building Materials Specifications](https://github.com/zaragoza-ab/byggmaterial-spec-sweden) - Concrete classes, wood grades, insulation lambdas, fire classes. CC BY 4.0.
 
 ## Misc
 
