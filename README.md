@@ -11,6 +11,7 @@ A curated list of awesome datasets for the Swedish market.
 - [Regional](#regional)
 - [Transport](#transport)
 - [Construction](#construction)
+- [Sports and outdoors](#sports-and-outdoors)
 - [Misc](#misc)
 - A __[wish list](#wish-list)__ of things we'd like to see datasets for
 - [Dataset portals](#dataset-portals)
@@ -34,6 +35,12 @@ A curated list of awesome datasets for the Swedish market.
 - [Swedish Construction Terminology Glossary](https://github.com/zaragoza-ab/swedish-construction-terminology) - 350+ terms trilingual (SV/EN/PL). CC BY 4.0.
 - [Swedish Construction Cost Database 2026](https://github.com/zaragoza-ab/construction-cost-sweden-2026) - Pricing for 50+ categories with regional adjustments. CC BY 4.0.
 - [Swedish Building Materials Specifications](https://github.com/zaragoza-ab/byggmaterial-spec-sweden) - Concrete classes, wood grades, insulation lambdas, fire classes. CC BY 4.0.
+
+## Sports and outdoors
+
+- [Race calendar 2027](https://github.com/oskaradolfsson/race-calendar-2027) - 266 races in 2027 (running, trail, cross-country skiing, cycling, swimming, triathlon, HYROX), mostly in Sweden, with dates, county, distances and the organiser's official page. CSV and JSON. CC BY 4.0. DOI: [10.5281/zenodo.24463912](https://doi.org/10.5281/zenodo.24463912).
+- [Outdoor gyms and exercise tracks in Sweden](https://github.com/oskaradolfsson/utegym-sverige) - 2,162 places in all 290 municipalities: 1,125 outdoor gyms (utegym), 190 lit tracks (elljusspår) and 847 ski tracks, with coordinates and municipality. From OpenStreetMap. CSV and JSON. ODbL. DOI: [10.5281/zenodo.24463952](https://doi.org/10.5281/zenodo.24463952).
+- [Utegymsindex 2026](https://github.com/oskaradolfsson/utegymsindex) - Outdoor gyms and lit tracks per 10,000 residents for all 290 municipalities (OpenStreetMap + SCB population), with rank. ODbL. DOI: [10.5281/zenodo.24463909](https://doi.org/10.5281/zenodo.24463909).
 
 ## Misc
 
