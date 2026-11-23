@@ -38,9 +38,9 @@ A curated list of awesome datasets for the Swedish market.
 
 ## Sports and outdoors
 
-- [Race calendar 2027](https://github.com/oskaradolfsson/race-calendar-2027) - 266 races in 2027 (running, trail, cross-country skiing, cycling, swimming, triathlon, HYROX), mostly in Sweden, with dates, county, distances and the organiser's official page. CSV and JSON. CC BY 4.0. DOI: [10.5281/zenodo.24463913](https://doi.org/10.5281/zenodo.24463913).
-- [Outdoor gyms and exercise tracks in Sweden](https://github.com/oskaradolfsson/utegym-sverige) - 2,162 places in all 290 municipalities: 1,125 outdoor gyms (utegym), 190 lit tracks (elljusspår) and 847 ski tracks, with coordinates and municipality. From OpenStreetMap. CSV and JSON. ODbL. DOI: [10.5281/zenodo.24463953](https://doi.org/10.5281/zenodo.24463953).
-- [Utegymsindex 2026](https://github.com/oskaradolfsson/utegymsindex) - Outdoor gyms and lit tracks per 10,000 residents for all 290 municipalities (OpenStreetMap + SCB population), with rank. ODbL. DOI: [10.5281/zenodo.24463910](https://doi.org/10.5281/zenodo.24463910).
+- [Race calendar 2027](https://github.com/oskaradolfsson/race-calendar-2027) - 266 races in 2027 (running, trail, cross-country skiing, cycling, swimming, triathlon, HYROX), mostly in Sweden, with dates, county, distances and the organiser's official page. CSV and JSON. CC BY 4.0. DOI: [10.5281/zenodo.24463912](https://doi.org/10.5281/zenodo.24463912).
+- [Outdoor gyms and exercise tracks in Sweden](https://github.com/oskaradolfsson/utegym-sverige) - 2,162 places in all 290 municipalities: 1,125 outdoor gyms (utegym), 190 lit tracks (elljusspår) and 847 ski tracks, with coordinates and municipality. From OpenStreetMap. CSV and JSON. ODbL. DOI: [10.5281/zenodo.24463952](https://doi.org/10.5281/zenodo.24463952).
+- [Utegymsindex 2026](https://github.com/oskaradolfsson/utegymsindex) - Outdoor gyms and lit tracks per 10,000 residents for all 290 municipalities (OpenStreetMap + SCB population), with rank. ODbL. DOI: [10.5281/zenodo.24463909](https://doi.org/10.5281/zenodo.24463909).
 
 ## Misc
 
